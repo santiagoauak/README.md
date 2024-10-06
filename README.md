@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Data Analytics.**
 
-- 💬 Ask me about **Excel, English, Javascript, Python**
+- 💬 Ask me about **Excel, English, Javascript, Powe BI**
 
 - 📫 How to reach me **santiagoluzkaua@gmail.com**
 
